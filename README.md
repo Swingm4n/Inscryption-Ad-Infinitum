@@ -25,7 +25,7 @@ The aim of _Inscryption: Ad Infinitum_ is to extend the original concept of _Ins
 
 ### Why?
 
-Why take put this much effort (especially knowing I'm an amateur front-end developer) into a project? Because I love Inscryption's mechanics and lore and I can't get enough of it, not to mention I got the original for PC and wanted to have a portable version of Act I. I also like to give myself far too complex problems.
+Why put this much effort (especially knowing I'm an amateur front-end developer) into a project? Because I love Inscryption's mechanics and lore and I can't get enough of it, not to mention I got the original for PC and wanted to have a portable version of Act I. I also like to give myself far too complex problems.
 
 ## Specifications
 
