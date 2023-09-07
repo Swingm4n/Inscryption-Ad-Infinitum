@@ -15,7 +15,7 @@ Go to \*[link]()\* to open the game and/or install it on your device.
 
 ### Installation
 
-* iOS: `Open Ad Infinitum on Safari > Share the webpage > ⊞ Add to Home Screen`. You should see _Inscryption: Ad Infinitum_ in your homescreen.
+* iOS: `Open Ad Infinitum on Safari > Share the webpage > ⊞ Add to Home Screen > Add`. You should see _Inscryption: Ad Infinitum_ in your homescreen.
 
 * Android: `Open Ad Infinitum on Chrome > Open the kebab menu (⋮) > Add to Home screen > Add`. You should see _Inscryption: Ad Infinitum_ in your homescreen.
 
