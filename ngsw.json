@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1694111464113,
-  "index": "C:/Program Files/Git/Inscryption-Ad-Infinitum/index.html",
+  "timestamp": 1694111645603,
+  "index": "https://Swingm4n.github.io/Inscryption-Ad-Infinitum/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,12 +11,12 @@
         "ignoreVary": true
       },
       "urls": [
-        "C:/Program Files/Git/Inscryption-Ad-Infinitum/index.html",
-        "C:/Program Files/Git/Inscryption-Ad-Infinitum/main.f5606ee2bf150ddc.js",
-        "C:/Program Files/Git/Inscryption-Ad-Infinitum/manifest.webmanifest",
-        "C:/Program Files/Git/Inscryption-Ad-Infinitum/polyfills.b9d6c476af067640.js",
-        "C:/Program Files/Git/Inscryption-Ad-Infinitum/runtime.e8ed673b78f8f686.js",
-        "C:/Program Files/Git/Inscryption-Ad-Infinitum/styles.3bfd6e9630aa5d7f.css"
+        "https://Swingm4n.github.io/Inscryption-Ad-Infinitum/index.html",
+        "https://Swingm4n.github.io/Inscryption-Ad-Infinitum/main.f5606ee2bf150ddc.js",
+        "https://Swingm4n.github.io/Inscryption-Ad-Infinitum/manifest.webmanifest",
+        "https://Swingm4n.github.io/Inscryption-Ad-Infinitum/polyfills.b9d6c476af067640.js",
+        "https://Swingm4n.github.io/Inscryption-Ad-Infinitum/runtime.e8ed673b78f8f686.js",
+        "https://Swingm4n.github.io/Inscryption-Ad-Infinitum/styles.3bfd6e9630aa5d7f.css"
       ],
       "patterns": []
     },
@@ -28,42 +28,42 @@
         "ignoreVary": true
       },
       "urls": [
-        "C:/Program Files/Git/Inscryption-Ad-Infinitum/assets/icons/android-chrome-192x192.png",
-        "C:/Program Files/Git/Inscryption-Ad-Infinitum/assets/icons/android-chrome-256x256.png",
-        "C:/Program Files/Git/Inscryption-Ad-Infinitum/assets/icons/apple-touch-icon.png",
-        "C:/Program Files/Git/Inscryption-Ad-Infinitum/assets/icons/favicon-16x16.png",
-        "C:/Program Files/Git/Inscryption-Ad-Infinitum/assets/icons/favicon-32x32.png",
-        "C:/Program Files/Git/Inscryption-Ad-Infinitum/assets/icons/favicon.ico",
-        "C:/Program Files/Git/Inscryption-Ad-Infinitum/assets/icons/mstile-150x150.png",
-        "C:/Program Files/Git/Inscryption-Ad-Infinitum/assets/icons/mstile-310x150.png",
-        "C:/Program Files/Git/Inscryption-Ad-Infinitum/assets/icons/mstile-310x310.png",
-        "C:/Program Files/Git/Inscryption-Ad-Infinitum/assets/icons/mstile-70x70.png",
-        "C:/Program Files/Git/Inscryption-Ad-Infinitum/assets/icons/safari-pinned-tab.svg",
-        "C:/Program Files/Git/Inscryption-Ad-Infinitum/assets/icons/site.webmanifest"
+        "https://Swingm4n.github.io/Inscryption-Ad-Infinitum/assets/icons/android-chrome-192x192.png",
+        "https://Swingm4n.github.io/Inscryption-Ad-Infinitum/assets/icons/android-chrome-256x256.png",
+        "https://Swingm4n.github.io/Inscryption-Ad-Infinitum/assets/icons/apple-touch-icon.png",
+        "https://Swingm4n.github.io/Inscryption-Ad-Infinitum/assets/icons/favicon-16x16.png",
+        "https://Swingm4n.github.io/Inscryption-Ad-Infinitum/assets/icons/favicon-32x32.png",
+        "https://Swingm4n.github.io/Inscryption-Ad-Infinitum/assets/icons/favicon.ico",
+        "https://Swingm4n.github.io/Inscryption-Ad-Infinitum/assets/icons/mstile-150x150.png",
+        "https://Swingm4n.github.io/Inscryption-Ad-Infinitum/assets/icons/mstile-310x150.png",
+        "https://Swingm4n.github.io/Inscryption-Ad-Infinitum/assets/icons/mstile-310x310.png",
+        "https://Swingm4n.github.io/Inscryption-Ad-Infinitum/assets/icons/mstile-70x70.png",
+        "https://Swingm4n.github.io/Inscryption-Ad-Infinitum/assets/icons/safari-pinned-tab.svg",
+        "https://Swingm4n.github.io/Inscryption-Ad-Infinitum/assets/icons/site.webmanifest"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "C:/Program Files/Git/Inscryption-Ad-Infinitum/assets/icons/android-chrome-192x192.png": "e4f674d61b082f3c30e31739a28a544a2116cfb9",
-    "C:/Program Files/Git/Inscryption-Ad-Infinitum/assets/icons/android-chrome-256x256.png": "fcb4847ff2ab6501e5a9645a496f9e008cb8a120",
-    "C:/Program Files/Git/Inscryption-Ad-Infinitum/assets/icons/apple-touch-icon.png": "831ee225ad7e434d23cfe21d1f876742481c3f6c",
-    "C:/Program Files/Git/Inscryption-Ad-Infinitum/assets/icons/favicon-16x16.png": "1ccbce40b35a6b552d1608ab171c5dab566af77e",
-    "C:/Program Files/Git/Inscryption-Ad-Infinitum/assets/icons/favicon-32x32.png": "0d12b003dbe68205eaf14bc3fe87b3f2772f78d1",
-    "C:/Program Files/Git/Inscryption-Ad-Infinitum/assets/icons/favicon.ico": "630f27b048e46d6b34e5daab00be3806ccdd2131",
-    "C:/Program Files/Git/Inscryption-Ad-Infinitum/assets/icons/mstile-150x150.png": "e25aebf24b5273cab6225a6cf060f58e22d502a9",
-    "C:/Program Files/Git/Inscryption-Ad-Infinitum/assets/icons/mstile-310x150.png": "fd104b4d5694d28d77cfa83e8555bf5ac55ddd08",
-    "C:/Program Files/Git/Inscryption-Ad-Infinitum/assets/icons/mstile-310x310.png": "e2b5d57b5cb3cdf2b62419c53a9320c97502dfad",
-    "C:/Program Files/Git/Inscryption-Ad-Infinitum/assets/icons/mstile-70x70.png": "3496d6a45de9c596f1a56d0a20f9b6485777e910",
-    "C:/Program Files/Git/Inscryption-Ad-Infinitum/assets/icons/safari-pinned-tab.svg": "40407eb571d39bafc0b7cbac0ef530e5563d6683",
-    "C:/Program Files/Git/Inscryption-Ad-Infinitum/assets/icons/site.webmanifest": "8ec4e2a2ecfd6ebc22f4079440acc6c85e65f675",
-    "C:/Program Files/Git/Inscryption-Ad-Infinitum/index.html": "000c9da902eed90a60dbb7a5ca3b474efa614d50",
-    "C:/Program Files/Git/Inscryption-Ad-Infinitum/main.f5606ee2bf150ddc.js": "3c8e393f2979495c3e1fa587f7c7ceded56d97c4",
-    "C:/Program Files/Git/Inscryption-Ad-Infinitum/manifest.webmanifest": "91688b1facd895e66aa9d7fbe2249c4fbcafdf08",
-    "C:/Program Files/Git/Inscryption-Ad-Infinitum/polyfills.b9d6c476af067640.js": "e294da9eeed6631bc26309b4ad37b1ee83e716a0",
-    "C:/Program Files/Git/Inscryption-Ad-Infinitum/runtime.e8ed673b78f8f686.js": "8508437712793858b5495174db145465ebf1f3df",
-    "C:/Program Files/Git/Inscryption-Ad-Infinitum/styles.3bfd6e9630aa5d7f.css": "8d5e99409e27dcd751c2147da8c6d69af2d3bef4"
+    "https://Swingm4n.github.io/Inscryption-Ad-Infinitum/assets/icons/android-chrome-192x192.png": "e4f674d61b082f3c30e31739a28a544a2116cfb9",
+    "https://Swingm4n.github.io/Inscryption-Ad-Infinitum/assets/icons/android-chrome-256x256.png": "fcb4847ff2ab6501e5a9645a496f9e008cb8a120",
+    "https://Swingm4n.github.io/Inscryption-Ad-Infinitum/assets/icons/apple-touch-icon.png": "831ee225ad7e434d23cfe21d1f876742481c3f6c",
+    "https://Swingm4n.github.io/Inscryption-Ad-Infinitum/assets/icons/favicon-16x16.png": "1ccbce40b35a6b552d1608ab171c5dab566af77e",
+    "https://Swingm4n.github.io/Inscryption-Ad-Infinitum/assets/icons/favicon-32x32.png": "0d12b003dbe68205eaf14bc3fe87b3f2772f78d1",
+    "https://Swingm4n.github.io/Inscryption-Ad-Infinitum/assets/icons/favicon.ico": "630f27b048e46d6b34e5daab00be3806ccdd2131",
+    "https://Swingm4n.github.io/Inscryption-Ad-Infinitum/assets/icons/mstile-150x150.png": "e25aebf24b5273cab6225a6cf060f58e22d502a9",
+    "https://Swingm4n.github.io/Inscryption-Ad-Infinitum/assets/icons/mstile-310x150.png": "fd104b4d5694d28d77cfa83e8555bf5ac55ddd08",
+    "https://Swingm4n.github.io/Inscryption-Ad-Infinitum/assets/icons/mstile-310x310.png": "e2b5d57b5cb3cdf2b62419c53a9320c97502dfad",
+    "https://Swingm4n.github.io/Inscryption-Ad-Infinitum/assets/icons/mstile-70x70.png": "3496d6a45de9c596f1a56d0a20f9b6485777e910",
+    "https://Swingm4n.github.io/Inscryption-Ad-Infinitum/assets/icons/safari-pinned-tab.svg": "40407eb571d39bafc0b7cbac0ef530e5563d6683",
+    "https://Swingm4n.github.io/Inscryption-Ad-Infinitum/assets/icons/site.webmanifest": "8ec4e2a2ecfd6ebc22f4079440acc6c85e65f675",
+    "https://Swingm4n.github.io/Inscryption-Ad-Infinitum/index.html": "5ac96ce5d43946c991e228a6af5f4e40c4731fdf",
+    "https://Swingm4n.github.io/Inscryption-Ad-Infinitum/main.f5606ee2bf150ddc.js": "3c8e393f2979495c3e1fa587f7c7ceded56d97c4",
+    "https://Swingm4n.github.io/Inscryption-Ad-Infinitum/manifest.webmanifest": "91688b1facd895e66aa9d7fbe2249c4fbcafdf08",
+    "https://Swingm4n.github.io/Inscryption-Ad-Infinitum/polyfills.b9d6c476af067640.js": "e294da9eeed6631bc26309b4ad37b1ee83e716a0",
+    "https://Swingm4n.github.io/Inscryption-Ad-Infinitum/runtime.e8ed673b78f8f686.js": "8508437712793858b5495174db145465ebf1f3df",
+    "https://Swingm4n.github.io/Inscryption-Ad-Infinitum/styles.3bfd6e9630aa5d7f.css": "8d5e99409e27dcd751c2147da8c6d69af2d3bef4"
   },
   "navigationUrls": [
     {
