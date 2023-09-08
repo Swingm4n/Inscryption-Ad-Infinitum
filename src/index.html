@@ -41,13 +41,44 @@
         />
         <meta name="theme-color" content="#333333" />
     </head>
-    <body>
+    <body onresize="showPortraitWarning()" onload="showPortraitWarning()">
         <div class="scanlines">
+            <div id="portraitWarning">
+                <img
+                    src="assets/images/pleaselandscape/pl-portrait.png"
+                    id="portrait"
+                />
+                <img
+                    src="assets/images/pleaselandscape/pl-landscape.png"
+                    id="landscape"
+                />
+                <div id="portraitMessage">
+                    <p>
+                        <span class="italic">Inscryption: Ad Infinitum</span>
+                        can<br />only be played in landscape mode.
+                    </p>
+                </div>
+            </div>
             <app-root></app-root>
         </div>
         <noscript
             >Please enable JavaScript to continue using this
             application.</noscript
         >
+        <script type="text/javascript">
+            var portraitWarning = document.getElementById('portraitWarning');
+
+            function showPortraitWarning() {
+                if (window.innerHeight >= window.innerWidth) {
+                    console.log('Added visible');
+                    portraitWarning.classList.add('visible');
+                } else {
+                    console.log('Removed visible');
+                    portraitWarning.classList.remove('visible');
+                }
+            }
+
+            screen.orientation.addEventListener('change', showPortraitWarning);
+        </script>
     </body>
 </html>
