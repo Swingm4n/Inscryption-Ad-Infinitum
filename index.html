@@ -17,14 +17,15 @@
         <meta name="msapplication-config" content="assets/icons/browserconfig.xml">
         <meta name="theme-color" content="#333333">
     <style>@font-face{font-family:Classic Consolas Neue;src:url(clacon2.4ebd174ea9e0326a.ttf)}*{font-family:Classic Consolas Neue,Courier,monospace}body{margin:0;overflow:hidden;background-color:#111}body:after{box-shadow:inset 0 0 5em #000000a6;position:absolute;inset:0;z-index:2147483649;content:""}#portraitWarning{width:100%;height:100%;background:#111;display:none;color:#fff}#portraitWarning img{height:85vw;position:absolute;top:45vh;left:50vw;translate:-50% -50%}#portraitWarning #portrait{z-index:2;opacity:100%;rotate:z 0deg;animation-name:rotate,opacity;animation-duration:5s;animation-delay:2s;animation-iteration-count:infinite;animation-timing-function:cubic-bezier(.645,.045,.355,1)}#portraitWarning #landscape{z-index:1;animation-name:rotate;animation-duration:5s;animation-delay:2s;animation-iteration-count:infinite;animation-timing-function:cubic-bezier(.645,.045,.355,1)}#portraitWarning #portraitMessage{position:absolute;width:100vw;text-align:center;font-size:4.75vw;top:80vh;translate:0 -50%;z-index:3}.italic{font-style:italic}@keyframes rotate{0%{rotate:z 0deg}25%{rotate:z 90deg}50%{rotate:z 90deg}75%{rotate:z 0deg}to{rotate:z 0deg}}.scanlines{position:relative;overflow:hidden;height:100vh}.scanlines:before,.scanlines:after{display:block;pointer-events:none;content:"";position:absolute}.scanlines:before{width:100%;height:2px;z-index:2147483649;background:rgba(0,0,0,.15);opacity:.75;animation:scanline 6s linear infinite}.scanlines:after{inset:0;border:0;padding:0;z-index:2147483648;background:linear-gradient(to bottom,transparent 50%,rgba(0,0,0,.15) 51%);background-size:100% 4px;animation:none}@keyframes scanline{0%{transform:translate3d(0,200000%,0)}}</style><link rel="stylesheet" href="styles.db63fa2535e5f61f.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles.db63fa2535e5f61f.css"></noscript></head>
-    <body onresize="showPortraitWarning()" onload="showPortraitWarning()">
+    <body>
         <div class="scanlines">
             <div id="portraitWarning">
                 <img src="assets/images/pleaselandscape/pl-portrait.png" id="portrait">
                 <img src="assets/images/pleaselandscape/pl-landscape.png" id="landscape">
                 <div id="portraitMessage">
                     <p>
-                        <span class="italic">Inscryption: Ad Infinitum</span> can<br>only be played in landscape mode.
+                        <span class="italic">Inscryption: Ad Infinitum</span>
+                        can<br>only be played in landscape mode.
                     </p>
                 </div>
             </div>
@@ -44,8 +45,12 @@
                     portraitWarning.classList.remove('visible');
                 }
             }
+            
+            document.addEventListener('orientationchange', showPortraitWarning);
+            window.addEventListener('resize', showPortraitWarning)
+            screen.orientation.addEventListener('change', showPortraitWarning)
 
-            screen.orientation.addEventListener("change", showPortraitWarning)
+            showPortraitWarning();
         </script>
-    <script src="runtime.e8ed673b78f8f686.js" type="module"></script><script src="polyfills.b9d6c476af067640.js" type="module"></script><script src="main.2d4bdb784913df22.js" type="module"></script></body>
+    <script src="runtime.e8ed673b78f8f686.js" type="module"></script><script src="polyfills.b9d6c476af067640.js" type="module"></script><script src="main.d3de2db00a633dff.js" type="module"></script></body>
 </html>
