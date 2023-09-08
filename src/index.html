@@ -41,7 +41,7 @@
         />
         <meta name="theme-color" content="#333333" />
     </head>
-    <body onresize="showPortraitWarning()" onload="showPortraitWarning()">
+    <body>
         <div class="scanlines">
             <div id="portraitWarning">
                 <img
@@ -77,8 +77,12 @@
                     portraitWarning.classList.remove('visible');
                 }
             }
+            
+            document.addEventListener('orientationchange', showPortraitWarning);
+            window.addEventListener('resize', showPortraitWarning)
+            screen.orientation.addEventListener('change', showPortraitWarning)
 
-            screen.orientation.addEventListener('change', showPortraitWarning);
+            showPortraitWarning();
         </script>
     </body>
 </html>

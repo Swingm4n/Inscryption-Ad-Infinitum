@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1694194329202,
+  "timestamp": 1694215230334,
   "index": "https://swingm4n.github.io/Inscryption-Ad-Infinitum/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "https://swingm4n.github.io/Inscryption-Ad-Infinitum/index.html",
-        "https://swingm4n.github.io/Inscryption-Ad-Infinitum/main.2d4bdb784913df22.js",
+        "https://swingm4n.github.io/Inscryption-Ad-Infinitum/main.d3de2db00a633dff.js",
         "https://swingm4n.github.io/Inscryption-Ad-Infinitum/manifest.webmanifest",
         "https://swingm4n.github.io/Inscryption-Ad-Infinitum/polyfills.b9d6c476af067640.js",
         "https://swingm4n.github.io/Inscryption-Ad-Infinitum/runtime.e8ed673b78f8f686.js",
@@ -170,8 +170,8 @@
     "https://swingm4n.github.io/Inscryption-Ad-Infinitum/assets/images/pleaselandscape/pl-landscape.png": "acddba594baed18d76de8a935ddf6b32ad91185c",
     "https://swingm4n.github.io/Inscryption-Ad-Infinitum/assets/images/pleaselandscape/pl-portrait.png": "d18e585a591446036b3420a11b51f0f81539a57f",
     "https://swingm4n.github.io/Inscryption-Ad-Infinitum/clacon2.4ebd174ea9e0326a.ttf": "c1fd66357f411b1742a3d194922f755a6ffe74a6",
-    "https://swingm4n.github.io/Inscryption-Ad-Infinitum/index.html": "0e7011b1240edb6f048f6c338fb839d46d779d8c",
-    "https://swingm4n.github.io/Inscryption-Ad-Infinitum/main.2d4bdb784913df22.js": "31e7d5c2760d7ce2acc021ca1aa874b98a66cf0a",
+    "https://swingm4n.github.io/Inscryption-Ad-Infinitum/index.html": "c231779b58e9d5fe9334903e38a7ec32d1eea4b9",
+    "https://swingm4n.github.io/Inscryption-Ad-Infinitum/main.d3de2db00a633dff.js": "e6c2d901795e9d8b43d8c4b66bc89b78a9abec54",
     "https://swingm4n.github.io/Inscryption-Ad-Infinitum/manifest.webmanifest": "2a8f74b55b2c97fb4dbcb7c904df6ee378c5707e",
     "https://swingm4n.github.io/Inscryption-Ad-Infinitum/polyfills.b9d6c476af067640.js": "e294da9eeed6631bc26309b4ad37b1ee83e716a0",
     "https://swingm4n.github.io/Inscryption-Ad-Infinitum/runtime.e8ed673b78f8f686.js": "8508437712793858b5495174db145465ebf1f3df",
