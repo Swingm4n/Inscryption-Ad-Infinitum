@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1694163330312,
+  "timestamp": 1694163579798,
   "index": "https://swingm4n.github.io/Inscryption-Ad-Infinitum/index.html",
   "assetGroups": [
     {
@@ -58,9 +58,9 @@
     "https://swingm4n.github.io/Inscryption-Ad-Infinitum/assets/icons/mstile-70x70.png": "3496d6a45de9c596f1a56d0a20f9b6485777e910",
     "https://swingm4n.github.io/Inscryption-Ad-Infinitum/assets/icons/safari-pinned-tab.svg": "40407eb571d39bafc0b7cbac0ef530e5563d6683",
     "https://swingm4n.github.io/Inscryption-Ad-Infinitum/assets/icons/site.webmanifest": "8ec4e2a2ecfd6ebc22f4079440acc6c85e65f675",
-    "https://swingm4n.github.io/Inscryption-Ad-Infinitum/index.html": "0191c316ba78baa283b9620eb04980dfa769facb",
+    "https://swingm4n.github.io/Inscryption-Ad-Infinitum/index.html": "fa1fe9999a63d92059665456836bf30e03a071b9",
     "https://swingm4n.github.io/Inscryption-Ad-Infinitum/main.f5606ee2bf150ddc.js": "3c8e393f2979495c3e1fa587f7c7ceded56d97c4",
-    "https://swingm4n.github.io/Inscryption-Ad-Infinitum/manifest.webmanifest": "91688b1facd895e66aa9d7fbe2249c4fbcafdf08",
+    "https://swingm4n.github.io/Inscryption-Ad-Infinitum/manifest.webmanifest": "c7e78fc795a190d0a4982493780bb77d1827a255",
     "https://swingm4n.github.io/Inscryption-Ad-Infinitum/polyfills.b9d6c476af067640.js": "e294da9eeed6631bc26309b4ad37b1ee83e716a0",
     "https://swingm4n.github.io/Inscryption-Ad-Infinitum/runtime.e8ed673b78f8f686.js": "8508437712793858b5495174db145465ebf1f3df",
     "https://swingm4n.github.io/Inscryption-Ad-Infinitum/styles.3bfd6e9630aa5d7f.css": "8d5e99409e27dcd751c2147da8c6d69af2d3bef4"

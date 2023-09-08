@@ -15,13 +15,13 @@ Go to _https://swingm4n.github.io/Inscryption-Ad-Infinitum_ to open the game and
 
 ### Installation
 
-* iOS: `Open Ad Infinitum on Safari > Share the webpage > ⊞ Add to Home Screen > Add`. You should see _Inscryption: Ad Infinitum_ in your homescreen.
+-   iOS: `Open Ad Infinitum on Safari > Share the webpage > ⊞ Add to Home Screen > Add`. You should see _Inscryption: Ad Infinitum_ in your homescreen.
 
-* Android: `Open Ad Infinitum on Chrome > Open the kebab menu (⋮) > Add to Home screen > Add`. You should see _Inscryption: Ad Infinitum_ in your homescreen.
+-   Android: `Open Ad Infinitum on Chrome > Open the kebab menu (⋮) > Add to Home screen > Add`. You should see _Inscryption: Ad Infinitum_ in your homescreen.
 
 ## Project Aim
 
-The aim of _Inscryption: Ad Infinitum_ is to extend the original concept of _Inscryption_'s original DLC, _Kaycee's Mod_, and turn it into a truly endless, arcade-style experience. In the original DLC, your run would be forced to end once you defeated the four bosses. _Ad Infinitum_ will, instead, give you another set of four bosses again, and again... the final score of a run will be calculated from the amount of encounters beaten and the quality of your deck. 
+The aim of _Inscryption: Ad Infinitum_ is to extend the original concept of _Inscryption_'s original DLC, _Kaycee's Mod_, and turn it into a truly endless, arcade-style experience. In the original DLC, your run would be forced to end once you defeated the four bosses. _Ad Infinitum_ will, instead, give you another set of four bosses again, and again... the final score of a run will be calculated from the amount of encounters beaten and the quality of your deck.
 
 ### Why?
 
@@ -46,6 +46,6 @@ Why put this much effort (especially knowing I'm an amateur front-end developer)
 
 ### Acknowledgments
 
-* [**Course on Angular** by Jeff Delaney (_aka Fireship_)](https://fireship.io/courses/angular/).
-* [**Tutorials on TypeScript** by Jeff Delaney (_aka Fireship_)](https://fireship.io/tags/typescript/).
-* [**Scanlines effect** by Mehdi (_aka Meduzen_)](https://codepen.io/meduzen/pen/zxbwRV).
+-   [**Course on Angular** by Jeff Delaney (_aka Fireship_)](https://fireship.io/courses/angular/).
+-   [**Tutorials on TypeScript** by Jeff Delaney (_aka Fireship_)](https://fireship.io/tags/typescript/).
+-   [**Scanlines effect** by Mehdi (_aka Meduzen_)](https://codepen.io/meduzen/pen/zxbwRV).
