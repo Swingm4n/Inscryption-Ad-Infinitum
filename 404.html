@@ -37,7 +37,7 @@
             var portraitWarning = document.getElementById('portraitWarning');
 
             function showPortraitWarning() {
-                if (window.innerHeight >= window.innerWidth) {
+                if (document.documentElement.clientHeight >= document.documentElement.clientWidth) {
                     console.log('Added visible');
                     portraitWarning.classList.add('visible');
                 } else {
