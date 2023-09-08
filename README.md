@@ -11,7 +11,7 @@ This is the source code for the unofficial, fan-made _Inscryption: Ad Infinitum_
 
 ### Opening the game
 
-Go to \*[link]()\* to open the game and/or install it on your device.
+Go to _https://swingm4n.github.io/Inscryption-Ad-Infinitum_ to open the game and/or install it on your device.
 
 ### Installation
 
